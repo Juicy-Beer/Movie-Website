@@ -15,7 +15,7 @@ npm install
 Create a `.env.local` file with your TMDB API key:
 
 ```
-TMDB_API_KEY=your_key_here
+NEXT_PUBLIC_TMDB_API_KEY=your_key_here
 ```
 
 ## Run
